@@ -1,0 +1,5 @@
+django
+djangorestframework
+psycopg2  # Caso esteja usando PostgreSQL, como no Supabase
+
+
