@@ -19,3 +19,16 @@ __pycache__/
 
 # Cache do IDE
 .vscode/
+
+# Ambiente virtual e dependências do sistema
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+
+# Configurações locais
+*.env
+
+# Arquivos e pastas do Django
+/media/
+staticfiles/
