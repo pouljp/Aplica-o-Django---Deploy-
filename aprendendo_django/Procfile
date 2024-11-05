@@ -1,0 +1,1 @@
+web: gunicorn django_supabase_projectgit.wsgi:application --bind 0.0.0.0:$PORT
